@@ -1,0 +1,2 @@
+attack,defense,speed,health,agressiveness,cooperation,leadership,hit,cure,combo,boost
+30,15,30,10000,0.5,-1,-1,1,0,0,0
